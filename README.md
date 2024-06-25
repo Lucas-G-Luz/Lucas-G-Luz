@@ -1,4 +1,4 @@
-🖥️ My Name is Lucas Luz, and I'm a (most of the time) back-end developer in a SAP / .NET World.
+🖥️ My Name is Lucas Luz, and I'm a (most of the time) **Back-end developer** in a SAP / .NET World.
 
 Technology lover
 Looking for new challenges in search of professional growth !
